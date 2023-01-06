@@ -1,0 +1,19 @@
+#draw{
+	margin-top: 20px;
+	display: flex;
+}
+#draw p{
+	height: 60px;
+	width: 60px;
+	background: #accbe0;
+	margin: 3px;
+	cursor: pointer;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	font-weight: bold;
+	font-size: 20px;
+}
+.card{
+	margin-top: 40px;
+}
