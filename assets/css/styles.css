@@ -17,3 +17,7 @@
 .card{
 	margin-top: 40px;
 }
+.fluid-image{
+	max-width: 100%;
+	height: auto;
+}

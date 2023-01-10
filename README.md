@@ -7,4 +7,4 @@
 # http://kangax.github.io/compat-table/es6/
 # https://caniuse.com/
 
-# https://www.youtube.com/watch?v=SD38qDVCJoo&list=PLv6GftO355Av24RavC6HDpzurm4MAfvrR&index=14
+# https://www.youtube.com/watch?v=-NZo1lHmNyI&list=PLv6GftO355Av24RavC6HDpzurm4MAfvrR&index=17
